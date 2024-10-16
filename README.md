@@ -1,4 +1,4 @@
-O portfólio apresenta 4 projetos elaborados e executados durante a realização de curso de Analista de Dados da EBAC.
+O portfólio apresenta 4 projetos com dados de diferentes áreas. 
 
 O primeiro projeto (Projeto_Logistica) é uma análise exploratória de dados logísticos de georeferenciamento da empresa Loggi. Em sua elaboração, utilizou-se linguagem de programação Python e pacotes como pandas, geopandas, seaborn, numpy, entre outros.
 
